@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SOS</string>
+    <string name="player1">Player 1:</string>
+    <string name="player2">Player 2:</string>
+    <string name="player1Score">0</string>
+    <string name="player2Score">0</string>
+    <string name="gameStatus">Game is a draw...</string>
+    <string name="turns">Player 1s turn</string>
+    <string name="reset">Reset Game</string>
+    <string name="player1Winning">Player 1 is winning!</string>
+    <string name="player2Winning">Player 2 is winning!</string>
+    <string name="O">O</string>
+    <string name="S">S</string>
+    <string name="quit">Quit</string>
+    <string name="player2turn">Player 2s turn</string>
+    <string name="player1won">Player 1 won!!!!</string>
+    <string name="player2won">Player 2 won!!!</string>
+    <string name="draw">Game was a draw...</string>
+    <string name="anotherPlayer1">Player 1 scored and got another turn</string>
+    <string name="anotherPlayer2">Player 2 scored and got another turn</string>
+    <string name="welcomeMessage">S O S</string>
+    <string name="play">Play</string>
+    <string name="selectText">Select Letter</string>
+    <string name="selectedO">O was selected</string>
+    <string name="selectedS">S was selected</string>
+    <string name="exit">Quit</string>
+</resources>
